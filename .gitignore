@@ -1,4 +1,1 @@
-```toml
-# Railway deployment configuration
-.railway/
-```
+Nothing should be ignored based on the provided file changes. The only added file is a markdown document (`NVIDIA_NIM_SETUP.md`), which is a source/config file and should not be ignored. There are no build artifacts, dependencies, or temporary files in the changes.
