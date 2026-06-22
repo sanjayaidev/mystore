@@ -1,1 +1,1 @@
-Nothing should be ignored based on the provided file changes. The only added file is a markdown document (`NVIDIA_NIM_SETUP.md`), which is a source/config file and should not be ignored. There are no build artifacts, dependencies, or temporary files in the changes.
+Nothing should be ignored based on the provided file changes. The only modified file is 'NVIDIA_NIM_SETUP.md', which is a markdown documentation file and should not be added to .gitignore.
